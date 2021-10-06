@@ -1,6 +1,6 @@
 🎮 = "I still dream of the game I made.";
 
-## Head First C# repository
+## nanchobo/Head-First-CSharp
 직접 풀어본 개정3판 실습 문제를 업로드합니다.
 
 <!---
