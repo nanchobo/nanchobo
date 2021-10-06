@@ -1,4 +1,6 @@
-🎮 = "I still dream of the game I made.";
+🎮 += "I still dream of the game I made.";
+
+28살 늦깎이 프로그래머
 
 ## nanchobo/Head-First-CSharp
 직접 풀어본 개정3판 실습 문제를 업로드합니다.
